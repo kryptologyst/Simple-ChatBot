@@ -31,7 +31,6 @@ The chatbot **remembers your conversation** across runs by saving messages to a 
 ### 1. Clone the repo
 
 git clone https://github.com/kryptologyst/Simple-ChatBot.git
-cd <your-repo>
 
 ### 2. Set up a virtual environment (recommended)
  
